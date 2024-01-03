@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "256686829756",
+    "firebase_url": "https://smator-15259-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smator-15259",
+    "storage_bucket": "smator-15259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256686829756:android:e171c4dc5bea891f2120b9",
+        "android_client_info": {
+          "package_name": "com.example.semator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdJUpolM8-NkYQY8iGeHGcUK-eIG_i-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
